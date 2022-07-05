@@ -1,5 +1,5 @@
 $(function(){
-      const API_KEY = '[Removed]'
+      /*const API_KEY = '[Removed]'
       //const fetch = require('cross-fetch');
 
      // console.log("API_KEY:", API_KEY);
@@ -20,6 +20,6 @@ $(function(){
             $("#whereby-demo").attr("src", result.roomURL);
       }).catch(function (error) {
             console.log("Whereby error:", error);
-      })
+      })*/
 
 });
